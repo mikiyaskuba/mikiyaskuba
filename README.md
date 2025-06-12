@@ -1,61 +1,40 @@
-# 🚀 Miko Kuba – Code Alchemist & Dream Hacker 👾
+# 🧙‍♂️ Miko Kuba – Dream Hacker from the Horn of Africa
 
-> “To become a billionaire, solve a billion problems.” – Me (obviously)
+> “To become a billionaire, solve a billion problems.” – Miko Kuba
 
-🌌 **Hi, I’m Miko** – born in the code, forged by dreams, raised by oxen and pixels.  
-🧬 I don’t just *write* code – I **summon it from the ether** to solve the unsolvable.  
-🌍 From the heart of Ethiopia, I launch ideas like rockets – ox-splitting apps, AI barters, poetic love machines, and more.
+Yo! I’m **Miko Kuba**, a cosmic fusion of code, culture, and *crazy ideas that work*.  
+I don’t follow trends — I **create worlds**. I’m here to turn local stories into global revolutions using code, courage, and pure chaos.
 
----
-
-## 🔮 Current Mission: Build the Impossible
-
-👁 Building **Kercha** – not just an app, it’s a *tradition reborn*.  
-🧠 Designing **JIVA** – AI-powered skill barter that outsmarts capitalism.  
-⚡ Cooking up a **poetic app** – to melt hearts and rewrite romance.  
-🦂 Plotting my **scorpion venom empire** (yes, you read that right).  
-💸 Trading Forex like it’s a video game from the year 3000.
+🌍 From Ethiopia to the multiverse, I’m building technology that doesn’t just function — it **feels**.
 
 ---
 
-## 🧰 Toolbox of a Digital Nomad:
+## 🧠 What I’m Building (A.K.A. My Madness)
 
-```ts
-const stack = {
-  frontend: ["React", "React Native", "Tailwind", "Expo"],
-  backend: ["Node.js", "Express", "Firebase", "SQL Server", "Sanity.io"],
-  extras: ["Framer Motion", "Redux", "VB.NET", "Cosmic Dust"],
-  hacking: ["RFID Cattle Tracking", "Live Streaming Stables", "Ox Divination"]
+🟡 **Kercha App** – Not your average meat delivery. A whole *culture system*, digitized. 8 people. 1 cow. Slaughtered live. Delivered fresh. RFID + Livestream included.
+
+🔵 **JIVA** – An AI + blockchain-powered skill bartering marketplace. No money needed. Just talent, trust, and tech.
+
+💖 **Poetic Love App** – A mobile diary of passion. Code meets poetry. A love letter in Android Studio.
+
+🦂 **Venom Empire** – Starting a scorpion venom business in Ethiopia. Why? Because no one else is crazy enough to try.
+
+💸 **Forex Hustle** – Turning $100 into $30,000. Just me, a dream, and the foreign exchange jungle.
+
+🧪 **Energetic Fertilizer Project** – Solving Ethiopia’s farming challenges by engineering new bio-based fertilizers at my university lab.
+
+🚕 **Mela Smart Taxi** – EV-based group taxi system for Addis Ababa. More seats, fewer emissions, powered by code.
+
+---
+
+## 🧰 My Cosmic Toolbox:
+
+```js
+const mikoStack = {
+  frontend: ["React", "React Native", "Expo", "Tailwind CSS", "Framer Motion"],
+  backend: ["Node.js", "Firebase", "Express", "VB.NET", "SQL Server"],
+  databases: ["Firebase", "MS SQL", "Sanity.io"],
+  techAlchemy: ["Live Video Streaming", "RFID", "Blockchain", "Cosmic Particles"],
+  languages: ["JavaScript", "TypeScript", "VB.NET", "HTML/CSS", "Python (a little)"],
+  tools: ["Git", "Figma", "Android Studio", "Uizard", "VS Code"],
 }
-🌀 Fun Facts (You’re Not Ready):
-🎓 University student, entrepreneur, AND mad scientist in one body.
-
-🐂 Can divide an ox into 8 parts like a samurai.
-
-💬 Fluent in React, VS Code, and Sweet Talk.
-
-💀 Believes error messages are love letters from the compiler.
-
-🌍 Trying to solve Ethiopian problems with universal code.
-
-💘 Love Letter to the Universe:
-I’m not here to join the tech world.
-I’m here to bend it to my vision – to make apps that bleed culture, dance with AI, and whisper poetry to your soul.
-I don’t just code...
-I prophesy in JavaScript.
-
-📫 Let’s Build Chaos Together:
-GitHub: @mikiyaskuba
-
-LinkedIn: Mikiyas Getu Ayele
-
-Email: bigdream070707@gmail.com
-
-Motto: “If you feel it’s crazy, you’re on the right path.”
-
-🧠 Last Thought
-If Tesla and Tupac had a baby and raised him in Addis...
-That’s me.
-
-👽 Starforge Online
-☄️ README Version: Alpha 7.77
